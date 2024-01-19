@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../dsa"
+		},
+		{
+			"path": "../../../../vs"
+		},
+		{
+			"path": "../../../../FRONTEND"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Calsii Code"
+	}
+}
